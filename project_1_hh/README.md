@@ -27,7 +27,7 @@
 
 ### Краткая информация о данных
 Датасет с резюме с портала HeadHunter - https://drive.google.com/file/d/1RseeFzu-S8yJ_l7KKbBe2MOHWHLy-KZn/view?usp=sharing
-Датасет с информацией о курсах валют по датам - 'data/ExchangeRates.csv' 
+Датасет с информацией о курсах валют по датам - (https://github.com/apiona13/sf_data_science/tree/1st-branch/project_1_hh/data)
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
