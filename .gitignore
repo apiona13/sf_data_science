@@ -164,3 +164,4 @@ dst-3.0_16_1_hh_database.csv
 
 # datasets project_5_taxi
 project_5_Regression/data/*.csv
+project_3_EDA/data/*.csv
