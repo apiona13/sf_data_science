@@ -71,8 +71,6 @@ The following outcomes were achieved:
 
 - **Evaluation**: The model was assessed using `accuracy`, `precision`, `recall`, `F1-score`, `confusion matrix`, and `ROC-AUC`, demonstrating high performance with low false positives for spam.  
 
-- **Logging**: Results were logged in Comet.ml ([link](https://www.comet.com/apiona13/project-classification/placeholder)). 
-
 - **Key Insights**: The Complement Naive Bayes model effectively handled class imbalance, with stable performance for `alpha` values up to 1, enabling reliable spam filtering.  
 
 **Tools Used**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` (`train_test_split`, `GridSearchCV`, `ComplementNB`, `classification_report`, `confusion_matrix`, `roc_curve`), `time`.
