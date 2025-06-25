@@ -11,3 +11,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Project 5: Machine Learning for Regression Task](https://github.com/apiona13/sf_data_science/tree/1st-branch/project_5_Regression)
 * [Project 6: Text Classification with Naive Bayes Classifier](https://github.com/apiona13/sf_data_science/tree/1st-branch/project_6_Naive%20Bayes)
 * [Project 7: Customer Cluster Segmentation for an Online Store](https://github.com/apiona13/sf_data_science/tree/1st-branch/project_7_Clusters)
+* [Project Graduated: Classification for Retail Bestsellers Prediction](https://github.com/apiona13/sf_data_science/tree/1st-branch/project_graduated_Classification_Retail)
