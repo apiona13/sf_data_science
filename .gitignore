@@ -166,3 +166,6 @@ dst-3.0_16_1_hh_database.csv
 project_5_Regression/data/*.csv
 project_3_EDA/data/*.csv
 project_7_Clusters/plotly/*.html
+work/
+ds_learning/
+practice/
